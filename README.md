@@ -15,18 +15,18 @@ Here are the methods :
 
      led.changeto(r,g,b,speed) - takes the parameters red value, green value, blue value and speed
 
-        The speed is how fast the color transition is and the colour values must be between 0 and 100. It is in seconds and works best around 2 or less.
+The speed is how fast the color transition is and the colour values must be between 0 and 100. It is in seconds and works    best around 2 or less.
 
      led.off(speed) - takes parameters speed
-	
-	The speed is how fast the led turns off. The RGB LED turns off completely.
+
+The speed is how fast the led turns off. The RGB LED turns off completely.
 
      led.on(r,g,b,speed) - takes the parameters red value, green value, blue value and speed
 	
-	This must be run after the off() method. The speed is how fast the color transition is and the colour values must be between 0 and 100. It is in seconds and works best around 2 or less.
+This must be run after the off() method. The speed is how fast the color transition is and the colour values must be between 0 and 100. It is in seconds and works best around 2 or less.
 
      led.cleanup() - 
 
-        This needs to be run at the end of your script so that the pins can be used again.
+This needs to be run at the end of your script so that the pins can be used again.
 
 Have fun playing around with your rgb led!
