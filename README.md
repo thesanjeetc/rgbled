@@ -1,4 +1,4 @@
-# RGB_Led
+# RGB LED Control
 
 Use this python library to control your rgb leds with smooth color changes between colors. First you need to import the library like this:
 
