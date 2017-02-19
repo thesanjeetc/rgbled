@@ -29,6 +29,7 @@ This must be run after the off() method. The speed is how fast the color transit
 
 This needs to be run at the end of your script so that the pins can be used again.
 
-Here is the link to my turorial: https://thereallycoolstuff.wordpress.com/2017/02/18/controlling-rgb-leds-with-smooth-colour-transitions/
+Here is the link to my turorial:
+https://thereallycoolstuff.wordpress.com/2017/02/18/controlling-rgb-leds-with-smooth-colour-transitions/
 
 Have fun playing around with your rgb led!
