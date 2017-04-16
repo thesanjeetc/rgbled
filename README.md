@@ -33,3 +33,5 @@ Here is the link to my turorial:
 https://thereallycoolstuff.wordpress.com/2017/02/18/controlling-rgb-leds-with-smooth-colour-transitions/
 
 Have fun playing around with your rgb led!
+
+NOTE: This is written for python 2.7
